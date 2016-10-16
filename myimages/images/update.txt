@@ -1,0 +1,3 @@
+-- Grab sprites
+-- Standardize
+-- Done!
